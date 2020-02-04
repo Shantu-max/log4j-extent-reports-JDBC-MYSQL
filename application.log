@@ -1,0 +1,8 @@
+2020-02-04 00:22:40,924  INFO [main] generateLogsLogin:31 - hello
+2020-02-04 00:24:53,449  INFO [main] generateLogsLogin:31 - hello
+2020-02-04 00:27:38,490  INFO [main] generateLogsLogin:31 - browser is about to laucnh 
+2020-02-04 00:27:47,816  INFO [main] generateLogsLogin:34 - url has been entered 
+2020-02-04 00:27:48,064  INFO [main] generateLogsLogin:41 - user name has been entered 
+2020-02-04 00:27:48,266  WARN [main] generateLogsLogin:43 - password has been entered 
+2020-02-04 00:27:49,070 FATAL [main] generateLogsLogin:45 - this is error login message 
+2020-02-04 00:27:53,075  WARN [main] generateLogsLogin:54 - application is about close now
